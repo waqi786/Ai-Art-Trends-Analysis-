@@ -14,23 +14,23 @@ To run the analysis, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/ai-art-trends-analysis.git
+      git clone https://github.com/yourusername/ai-art-trends-analysis.git
 
 2. Navigate to the project directory:
 
-   cd ai-art-trends-analysis
+      cd ai-art-trends-analysis
 
 3. Install the required dependencies:
 
-   pip install -r requirements.txt
+      pip install -r requirements.txt
 
 4. Run the Jupyter notebook or script:
 
-   jupyter notebook ai_art_analysis.ipynb
+      jupyter notebook ai_art_analysis.ipynb
 
 or
 
-   python analysis.py
+      python analysis.py
 
 Dependencies:
 
