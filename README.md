@@ -1,4 +1,4 @@
-# Ai-Art-Trends-Analysis-
+# Ai-Art-Trends-Analysis
 
 **Overview:**
 
