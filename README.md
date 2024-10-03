@@ -1,6 +1,6 @@
 # Ai-Art-Trends-Analysis
 
-**Overview**
+**Overview:**
 
 This project delves into the emerging trends in AI-generated art, analyzing a dataset that captures various aspects of this rapidly growing field. The analysis covers art styles, tools used, popularity across regions, and platforms where AI art is most prevalent. The goal is to identify key trends and patterns within AI-generated artwork, offering insights into the evolution of art through artificial intelligence.
 
