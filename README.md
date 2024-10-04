@@ -46,13 +46,13 @@ or
 
 **Dependencies:**
 
-Python 3.x
-Jupyter Notebook
-Pandas
-Matplotlib
-Seaborn
-NumPy
-Scikit-learn
+1. Python 3.x
+2. Jupyter Notebook
+3. Pandas
+4. Matplotlib
+5. Seaborn
+6. NumPy
+7. Scikit-learn
 
 **Dataset:**
 
