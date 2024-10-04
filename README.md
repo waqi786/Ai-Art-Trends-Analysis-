@@ -44,7 +44,7 @@ or
             python analysis.py
 
 
-Dependencies:
+**Dependencies:**
 
 Python 3.x
 Jupyter Notebook
