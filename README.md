@@ -10,7 +10,8 @@ This project delves into the emerging trends in AI-generated art, analyzing a da
 2. Data Visualization: Visualization of key insights through various charts and graphs, providing a clear understanding of AI art trends.
 3. Machine Learning: Application of machine learning techniques to predict future trends and identify correlations within the dataset.
 
-Installation and Usage:
+**Installation and Usage:**
+
 To run the analysis, follow these steps:
 
 1. Clone the repository:
