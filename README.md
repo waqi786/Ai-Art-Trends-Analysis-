@@ -54,7 +54,7 @@ Seaborn
 NumPy
 Scikit-learn
 
-Dataset:
+**Dataset:**
 
 The dataset used in this project includes various attributes related to AI-generated art, such as artwork style, tools used, popularity score, and regions where these artworks are trending. It provides a comprehensive view of the growing influence of AI in the art world.
 
