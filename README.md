@@ -59,4 +59,6 @@ The dataset used in this project includes various attributes related to AI-gener
 
 Dataset Link: https://www.kaggle.com/datasets/waqi786/ai-generated-art-trends
 
-Uploaded Date: 9/3/2024
+**Uploaded Date:** 
+
+9/3/2024
